@@ -11,9 +11,6 @@ Hello! :wave:
 ```txt
 From: 26 August 2022 - To: 09 April 2024
 
-Total Time: 1,606 hrs 17 mins
-
-sh                            500 hrs 50 mins ██████▓░░░░░░░░░░░░░░░░░░   27.10 %
 Dart                          477 hrs 58 mins ██████▒░░░░░░░░░░░░░░░░░░   25.86 %
 C#                            345 hrs 14 mins ████▓░░░░░░░░░░░░░░░░░░░░   18.68 %
 Other                         241 hrs 44 mins ███▒░░░░░░░░░░░░░░░░░░░░░   13.08 %
