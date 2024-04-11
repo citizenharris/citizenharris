@@ -19,4 +19,4 @@ jobs:
           LANG_COUNT: 10
           TIME_RANGE: "last_7_days"
           SHOW_TOTAL: true
-          IGNORED_LANGUAGES: "sh"
+          IGNORED_LANGUAGES: "sh text"
