@@ -9,19 +9,19 @@ Hello! :wave:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 10 April 2024 - To: 17 April 2024
+From: 13 April 2024 - To: 20 April 2024
 
-Total Time: 28 hrs 27 mins
+Total Time: 16 hrs 50 mins
 
-TypeScript        8 hrs 4 mins    ██████▒░░░░░░░░░░░░░░░░░░   25.38 %
-Other             3 hrs 21 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.54 %
-F#                1 hr 33 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   04.88 %
-Lua               1 hr 15 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.96 %
-JSON              48 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.55 %
-JavaScript        30 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.60 %
-Markdown          22 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.18 %
-Text              20 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.06 %
-Vim Script        19 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.04 %
+TypeScript        5 hrs 17 mins   ██████▓░░░░░░░░░░░░░░░░░░   26.27 %
+Other             3 hrs 19 mins   ████░░░░░░░░░░░░░░░░░░░░░   16.49 %
+Lua               1 hr 14 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.14 %
+JSON              46 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.86 %
+JavaScript        22 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.90 %
+Markdown          21 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.77 %
+Vim Script        19 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.64 %
+Text              18 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.55 %
+TSConfig          11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.92 %
 ```
 
 <!--END_SECTION:waka-->
