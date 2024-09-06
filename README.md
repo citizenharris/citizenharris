@@ -9,7 +9,7 @@ Hello! :wave:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 26 August 2024 - To: 02 September 2024
+From: 28 August 2024 - To: 04 September 2024
 
 Total Time: 30 mins
 
