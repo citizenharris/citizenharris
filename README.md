@@ -9,13 +9,13 @@ Hello! :wave:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 28 August 2024 - To: 04 September 2024
+From: 31 August 2024 - To: 07 September 2024
 
 Total Time: 30 mins
 
-Other   2 hrs 30 mins   ████████████████████▓░░░░   83.22 %
-sh      29 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.26 %
-Bash    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.52 %
+Other   5 hrs 30 mins   ███████████████████████░░   91.60 %
+sh      29 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.14 %
+Bash    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 %
 ```
 
 <!--END_SECTION:waka-->
