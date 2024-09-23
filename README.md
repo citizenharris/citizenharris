@@ -9,19 +9,20 @@ Hello! :wave:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 11 September 2024 - To: 18 September 2024
+From: 14 September 2024 - To: 21 September 2024
 
-Total Time: 10 hrs 39 mins
+Total Time: 7 hrs 7 mins
 
-Other            5 hrs 19 mins   ████████▒░░░░░░░░░░░░░░░░   33.36 %
-YAML             2 hrs 27 mins   ████░░░░░░░░░░░░░░░░░░░░░   15.41 %
-Lua              35 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.71 %
-Python           19 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.08 %
-Bash             18 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.91 %
-JSON             13 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.44 %
-Markdown         13 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.39 %
-Terraform        9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.04 %
-Jupyter          8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.89 %
+Other        6 hrs 50 mins   ████████████▒░░░░░░░░░░░░   48.97 %
+sh           3 hrs 48 mins   ██████▓░░░░░░░░░░░░░░░░░░   27.24 %
+YAML         1 hr 11 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.51 %
+Lua          41 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.99 %
+Bash         15 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.90 %
+JSON         13 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.65 %
+Python       12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.44 %
+Jupyter      10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.20 %
+Terraform    9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.19 %
+Makefile     6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.79 %
 ```
 
 <!--END_SECTION:waka-->
