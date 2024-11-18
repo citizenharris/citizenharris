@@ -9,19 +9,19 @@ Hello! :wave:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 07 November 2024 - To: 13 November 2024
+From: 10 November 2024 - To: 16 November 2024
 
-Total Time: 14 hrs 49 mins
+Total Time: 17 hrs 34 mins
 
-Other        5 hrs 27 mins   ██████▓░░░░░░░░░░░░░░░░░░   26.90 %
-Python       2 hrs 53 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.30 %
-Lua          2 hrs 16 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   11.23 %
-TypeScript   1 hr 53 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.31 %
-YAML         39 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.24 %
-Jupyter      38 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.13 %
-Bash         16 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.35 %
-Terraform    13 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.10 %
-C#           8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.67 %
+Other        5 hrs 18 mins   █████▓░░░░░░░░░░░░░░░░░░░   23.22 %
+Python       3 hrs 34 mins   ████░░░░░░░░░░░░░░░░░░░░░   15.61 %
+Lua          2 hrs 52 mins   ███░░░░░░░░░░░░░░░░░░░░░░   12.53 %
+Jupyter      1 hr 16 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.60 %
+YAML         41 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.99 %
+TypeScript   33 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.42 %
+Markdown     24 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.78 %
+Bash         21 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.57 %
+R            15 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.11 %
 ```
 
 <!--END_SECTION:waka-->
