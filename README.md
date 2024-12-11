@@ -9,19 +9,19 @@ Hello! :wave:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 01 December 2024 - To: 07 December 2024
+From: 03 December 2024 - To: 09 December 2024
 
-Total Time: 14 hrs 10 mins
+Total Time: 13 hrs 39 mins
 
-Other        5 hrs 46 mins   ███████▒░░░░░░░░░░░░░░░░░   28.93 %
-Python       3 hrs 46 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.92 %
-TypeScript   1 hr 9 mins     █▒░░░░░░░░░░░░░░░░░░░░░░░   05.83 %
-YAML         29 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.50 %
-Lua          26 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.18 %
-Bash         14 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.24 %
-JSON         11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.00 %
-R            8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.69 %
-JavaScript   7 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.62 %
+Other        6 hrs 35 mins   ████████░░░░░░░░░░░░░░░░░   32.55 %
+Python       3 hrs 7 mins    ████░░░░░░░░░░░░░░░░░░░░░   15.45 %
+TypeScript   1 hr 21 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.74 %
+Lua          1 hr 19 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.52 %
+R            45 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.76 %
+YAML         28 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.32 %
+JavaScript   21 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.75 %
+JSON         12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.03 %
+Bash         11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.98 %
 ```
 
 <!--END_SECTION:waka-->
