@@ -9,19 +9,14 @@ Hello! :wave:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 10 December 2024 - To: 16 December 2024
+From: 12 December 2024 - To: 18 December 2024
 
-Total Time: 12 hrs 24 mins
+Total Time: 1 hr 58 mins
 
-Other      3 hrs 34 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.41 %
-Python     2 hrs 26 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   15.32 %
-Markdown   2 hrs 9 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.52 %
-Lua        1 hr 2 mins     █▓░░░░░░░░░░░░░░░░░░░░░░░   06.51 %
-R          58 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.13 %
-Makefile   29 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.11 %
-YAML       27 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.88 %
-CSV        25 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.61 %
-Bash       15 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.60 %
+Other      3 hrs 53 mins   ████████████████▓░░░░░░░░   66.30 %
+Lua        43 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.36 %
+Makefile   25 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.24 %
+Bash       3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.95 %
 ```
 
 <!--END_SECTION:waka-->
