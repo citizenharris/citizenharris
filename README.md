@@ -9,19 +9,19 @@ Hello! :wave:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 22 December 2024 - To: 28 December 2024
+From: 24 December 2024 - To: 30 December 2024
 
-Total Time: 12 hrs 45 mins
+Total Time: 9 hrs 40 mins
 
-C#             3 hrs 39 mins   ██████░░░░░░░░░░░░░░░░░░░   24.13 %
-Other          2 hrs 22 mins   ████░░░░░░░░░░░░░░░░░░░░░   15.73 %
-Lua            1 hr 56 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   12.79 %
-TypeScript     43 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.75 %
-JavaScript     24 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.69 %
-Bash           18 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.04 %
-Markdown       9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.06 %
-YAML           6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.74 %
-JSON           6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.68 %
+C#           5 hrs 48 mins   ████████████▒░░░░░░░░░░░░   49.52 %
+Other        2 hrs 2 mins    ████▒░░░░░░░░░░░░░░░░░░░░   17.46 %
+Lua          21 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.02 %
+TypeScript   11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.62 %
+JavaScript   9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.37 %
+Markdown     7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.07 %
+SQL          4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.64 %
+YAML         2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.41 %
+INI          2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.38 %
 ```
 
 <!--END_SECTION:waka-->
