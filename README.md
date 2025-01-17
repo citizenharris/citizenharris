@@ -9,19 +9,16 @@ Hello! :wave:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 07 January 2025 - To: 13 January 2025
+From: 09 January 2025 - To: 15 January 2025
 
-Total Time: 17 hrs 3 mins
+Total Time: 4 hrs 59 mins
 
-TypeScript        6 hrs 3 mins    ███████▓░░░░░░░░░░░░░░░░░   30.63 %
-Other             2 hrs 41 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.66 %
-C#                2 hrs 33 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   12.94 %
-JavaScript        2 hrs 29 mins   ███░░░░░░░░░░░░░░░░░░░░░░   12.57 %
-Markdown          39 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.30 %
-YAML              12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.04 %
-Lua               6 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.58 %
-JSON              6 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.51 %
-Bash              3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 %
+Other         5 hrs 41 mins   █████████████▒░░░░░░░░░░░   53.23 %
+TypeScript    1 hr 40 mins    ████░░░░░░░░░░░░░░░░░░░░░   15.74 %
+JavaScript    56 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.80 %
+C#            1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 %
+Git           0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
+Image (svg)   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
 
 <!--END_SECTION:waka-->
