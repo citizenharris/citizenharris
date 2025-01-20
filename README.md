@@ -9,16 +9,11 @@ Hello! :wave:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 09 January 2025 - To: 15 January 2025
+From: 12 January 2025 - To: 18 January 2025
 
-Total Time: 4 hrs 59 mins
+Total Time: 58 mins
 
-Other         5 hrs 41 mins   █████████████▒░░░░░░░░░░░   53.23 %
-TypeScript    1 hr 40 mins    ████░░░░░░░░░░░░░░░░░░░░░   15.74 %
-JavaScript    56 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.80 %
-C#            1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 %
-Git           0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
-Image (svg)   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+Other   6 hrs 51 mins   ██████████████████████░░░   87.60 %
 ```
 
 <!--END_SECTION:waka-->
