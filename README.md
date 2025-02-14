@@ -9,19 +9,19 @@ Hello! :wave:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 04 February 2025 - To: 10 February 2025
+From: 06 February 2025 - To: 12 February 2025
 
-Total Time: 19 hrs 58 mins
+Total Time: 18 hrs 59 mins
 
-YAML         5 hrs 46 mins   ██████▒░░░░░░░░░░░░░░░░░░   25.26 %
-Other        2 hrs 53 mins   ███░░░░░░░░░░░░░░░░░░░░░░   12.62 %
-Lua          1 hr 39 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   07.28 %
-Bash         1 hr 19 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.81 %
-Python       45 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.30 %
-JSON         41 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.01 %
-PowerShell   19 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.40 %
-Bicep        9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.69 %
-Text         6 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.48 %
+YAML         11 hrs 12 mins  ████████████▒░░░░░░░░░░░░   48.88 %
+Other        3 hrs 56 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.21 %
+Python       1 hr 12 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.28 %
+JSON         52 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.83 %
+Bash         36 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.68 %
+Lua          28 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.10 %
+PowerShell   11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.85 %
+Markdown     6 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.48 %
+gitrebase    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
 ```
 
 <!--END_SECTION:waka-->
