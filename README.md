@@ -9,19 +9,19 @@ Hello! :wave:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 28 July 2025 - To: 04 August 2025
+From: 30 July 2025 - To: 06 August 2025
 
-Total Time: 16 hrs 10 mins
+Total Time: 18 hrs 2 mins
 
-Other         13 hrs 10 mins  ███████████▒░░░░░░░░░░░░░   44.90 %
-Python        2 hrs 1 min     █▓░░░░░░░░░░░░░░░░░░░░░░░   06.88 %
-YAML          1 hr 32 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.23 %
-Terraform     1 hr 21 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.61 %
-Markdown      1 hr 21 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.61 %
-PowerShell    40 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.27 %
-Makefile      32 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.86 %
-XML           29 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.65 %
-Lua           28 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.64 %
+Other        12 hrs 49 mins  ██████████▒░░░░░░░░░░░░░░   41.55 %
+Python       4 hrs 7 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.36 %
+Markdown     2 hrs 19 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.55 %
+YAML         1 hr 20 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.36 %
+Terraform    56 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.03 %
+PowerShell   37 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.05 %
+Makefile     32 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.77 %
+Lua          31 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.68 %
+JSON         9 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.51 %
 ```
 
 <!--END_SECTION:waka-->
