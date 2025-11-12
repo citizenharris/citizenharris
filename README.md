@@ -9,19 +9,19 @@ Hello! :wave:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 02 November 2025 - To: 08 November 2025
+From: 04 November 2025 - To: 10 November 2025
 
-Total Time: 24 hrs 51 mins
+Total Time: 23 hrs 57 mins
 
-Other           9 hrs 12 mins   ██████▓░░░░░░░░░░░░░░░░░░   27.04 %
-Python          4 hrs 30 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.22 %
-Lua             2 hrs 17 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.75 %
-Terraform       2 hrs 2 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.97 %
-Markdown        1 hr 55 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.65 %
-YAML            52 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.54 %
-TOML            25 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.25 %
-gitignore       21 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.03 %
-Makefile        16 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.82 %
+Other           9 hrs 23 mins   ███████░░░░░░░░░░░░░░░░░░   28.16 %
+Python          4 hrs 26 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.34 %
+Terraform       2 hrs 43 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   08.18 %
+Markdown        2 hrs 3 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.17 %
+Lua             1 hr 31 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.55 %
+YAML            1 hr 2 mins     ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.14 %
+HCL             33 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.66 %
+gitignore       21 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.09 %
+Makefile        16 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.83 %
 ```
 
 <!--END_SECTION:waka-->
