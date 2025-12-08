@@ -9,19 +9,19 @@ Hello! :wave:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 27 November 2025 - To: 03 December 2025
+From: 30 November 2025 - To: 06 December 2025
 
-Total Time: 15 hrs 57 mins
+Total Time: 17 hrs 57 mins
 
-Other        6 hrs 44 mins   ███████▒░░░░░░░░░░░░░░░░░   29.69 %
-YAML         2 hrs 44 mins   ███░░░░░░░░░░░░░░░░░░░░░░   12.05 %
-Terraform    1 hr 36 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   07.07 %
-Python       1 hr 9 mins     █▒░░░░░░░░░░░░░░░░░░░░░░░   05.10 %
-TOML         1 hr 9 mins     █▒░░░░░░░░░░░░░░░░░░░░░░░   05.10 %
-HTML         49 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.66 %
-JavaScript   37 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.77 %
-C#           23 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.72 %
-Lua          22 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.67 %
+Other        7 hrs 8 mins    ███████░░░░░░░░░░░░░░░░░░   28.45 %
+YAML         3 hrs 24 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.58 %
+Terraform    3 hrs 11 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   12.71 %
+Lua          1 hr 37 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.49 %
+Python       1 hr 7 mins     █░░░░░░░░░░░░░░░░░░░░░░░░   04.51 %
+CSHTML       42 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.79 %
+JSON         35 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.33 %
+TOML         33 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.22 %
+C#           28 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.88 %
 ```
 
 <!--END_SECTION:waka-->
