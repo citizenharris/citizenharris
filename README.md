@@ -9,19 +9,19 @@ Hello! :wave:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 11 December 2025 - To: 17 December 2025
+From: 14 December 2025 - To: 20 December 2025
 
-Total Time: 10 hrs 39 mins
+Total Time: 7 hrs 45 mins
 
-Other        12 hrs 1 min    █████████████▒░░░░░░░░░░░   53.02 %
-Markdown     2 hrs 55 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   12.91 %
-Lua          48 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.54 %
-XML          46 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.39 %
-sshconfig    19 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.41 %
-JSON         15 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.15 %
-CSHTML       14 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.03 %
-Terraform    11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.87 %
-Python       9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.71 %
+Other        4 hrs 58 mins   █████████▓░░░░░░░░░░░░░░░   39.12 %
+Markdown     3 hrs 27 mins   ██████▓░░░░░░░░░░░░░░░░░░   27.19 %
+Lua          25 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.28 %
+Terraform    19 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.57 %
+sshconfig    7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.99 %
+JSON         5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.72 %
+YAML         3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.52 %
+Bash         1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 %
+Python       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 %
 ```
 
 <!--END_SECTION:waka-->
