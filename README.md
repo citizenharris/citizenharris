@@ -9,19 +9,19 @@ Hello! :wave:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 08 January 2026 - To: 14 January 2026
+From: 11 January 2026 - To: 17 January 2026
 
-Total Time: 9 hrs 15 mins
+Total Time: 10 hrs 33 mins
 
-Other       10 hrs 21 mins  █████████████▒░░░░░░░░░░░   52.82 %
-Markdown    2 hrs 20 mins   ███░░░░░░░░░░░░░░░░░░░░░░   11.90 %
-Terraform   1 hr 41 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.59 %
-Lua         50 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.25 %
-YAML        34 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.90 %
-Python      33 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.84 %
-SQL         25 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.15 %
-Text        20 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.76 %
-sshconfig   8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.71 %
+Other       9 hrs 47 mins   ████████████░░░░░░░░░░░░░   48.14 %
+Terraform   2 hrs 22 mins   ███░░░░░░░░░░░░░░░░░░░░░░   11.70 %
+Markdown    2 hrs 3 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.10 %
+Python      1 hr 39 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.11 %
+Lua         37 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.07 %
+Text        10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.83 %
+sshconfig   8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.69 %
+Dart        5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.41 %
+YAML        3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 %
 ```
 
 <!--END_SECTION:waka-->
