@@ -3,7 +3,7 @@
 Hello! :wave:
 
 <div align="center">
-  <img  src="https://raw.githubusercontent.com/1999AZZAR/1999AZZAR/readme/resources/grid-snake.svg" alt="snake" />
+  <img  src="https://raw.githubusercontent.com/1999AZZAR/1999AZZAR/refs/heads/readme/public/grid-snake.svg" alt="snake" />
 </div>
 
 <!--START_SECTION:waka-->
