@@ -9,20 +9,20 @@ Hello! :wave:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 20 September 2026 - To: 27 September 2026
+From: 21 September 2026 - To: 28 September 2026
 
-Total Time: 18 hrs 38 mins
+Total Time: 15 hrs 40 mins
 
-Other        10 hrs 30 mins        █████████░░░░░░░░░░░░░░░░   36.03 %
-TypeScript   8 hrs 31 mins         ███████▒░░░░░░░░░░░░░░░░░   29.24 %
-Markdown     4 hrs 38 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.92 %
-Lua          3 hrs 58 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.66 %
-JSON         23 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.36 %
-Bash         12 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.71 %
-YAML         10 mins               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.58 %
-TOML         9 mins                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.56 %
-Python       9 mins                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.53 %
-JavaScript   5 mins                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 %
+Other        11 hrs 43 mins        ██████████▓░░░░░░░░░░░░░░   42.79 %
+TypeScript   6 hrs 58 mins         ██████▒░░░░░░░░░░░░░░░░░░   25.45 %
+Markdown     4 hrs 32 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.59 %
+Lua          2 hrs 27 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.96 %
+Bash         25 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.56 %
+JSON         24 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.51 %
+TOML         10 mins               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.62 %
+Text         9 mins                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.59 %
+YAML         9 mins                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.59 %
+Python       9 mins                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.56 %
 ```
 
 <!--END_SECTION:waka-->
